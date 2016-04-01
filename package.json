@@ -1,6 +1,6 @@
 {
   "name": "ng.cx.lodash",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "description": "Angular wrapper for lodash configured for ctx purposes",
   "author": {
     "name": "Jaime Beneytez - EF CTX",
