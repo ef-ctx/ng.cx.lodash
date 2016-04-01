@@ -6,7 +6,7 @@ describe('ng.cx.lodash', function() {
     it('should provide a way to inject lodash', inject(function(_) {
         console.log('_', _);
 
-        expect(typeof _).toBe('object');
+        expect(typeof _).toBe('function');
     }));
 
 });

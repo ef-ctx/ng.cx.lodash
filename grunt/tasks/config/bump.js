@@ -11,9 +11,7 @@ module.exports = {
             'bower.json',
             'CHANGELOG.md',
             '<%= dist.js %>',
-            '<%= dist.js_min %>',
-            '<%= dist.css %>',
-            '<%= dist.css_min %>'
+            '<%= dist.js_min %>'
         ],
         createTag: true,
         tagName: 'v%VERSION%',

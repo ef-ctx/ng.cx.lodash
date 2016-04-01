@@ -28,13 +28,15 @@ module.exports = function (grunt) {
     grunt.registerTask('release-pre-tasks', [
         'clean',
         'jshint',
+        'concat:build',
+        'wrap:build',
         'karma:unit',
     ]);
 
     grunt.registerTask('release-post-tasks', [
         'update-pkg',
         'concat:dist',
-        'wrap',
+        'wrap:dist',
         'uglify',
         'conventionalChangelog',
         'bump-commit'

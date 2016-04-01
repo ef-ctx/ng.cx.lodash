@@ -1,43 +1,10 @@
 # ng.cx.lodash
 
-lodash component for angular applications.
+Angular wrapper for lodash configured for ctx purposes
 
-> ###DESCRIPTION###
+> #DESCRIPTION
 
-```html
-    <div cx-lodash >
-    </div>
-```
-
-## Getting Started
-
-Add **ng.cx.lodash** to you project.
-
-Via bower:
-
-```
-$ bower install --save ng.cx.lodash
-```
-
-Checkout the [full documentation](https://github.com/ef-ctx/ng.cx.lodash).
-
-## Contributing
-
-We'd love for you to contribute to our source code and to make it even better than it is today!
-
-Make sure you read the [Contributing Guide](CONTRIBUTING.md) first.
-
-
-## Developing
-
-Clone this repository, install the dependencies and simply run `grunt`.
-
-```
-$ npm install -g grunt-cli bower
-$ npm install
-$ bower install
-$ grunt
-```
+The purpose of this library is to provide a customized lodash version for CTX projects.
 
 ## [MIT License](LICENSE)
 
