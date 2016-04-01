@@ -1,0 +1,41 @@
+{
+  "name": "ng.cx.lodash",
+  "version": "0.0.1",
+  "description": "Angular wrapper for lodash configured for ctx purposes",
+  "authors": [
+    "EF CTX <ctx@ef.com> (http://www.ef.com)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ef-ctx/ng.cx.lodash",
+  "ignore": [
+    "bin",
+    "docs",
+    "grunt",
+    ".bowerrc",
+    ".editorconfig",
+    ".gitignore",
+    ".jsbeautifyrc",
+    ".jshintrc",
+    ".travis.yml",
+    ".yo-rc.json",
+    "Gruntfile.js",
+    "TODO.md",
+    "bootstrap.sh",
+    "package.json",
+    "travis.sh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ef-ctx/ng.cx.lodash.git"
+  },
+  "dependencies": {
+    "angular": "~1.4.8",
+  },
+  "devDependencies": {
+    "angular": "~1.5.0"
+  },
+  "main": [
+    "./dist/ng.cx.lodash.js",
+    "./dist/ng.cx.lodash.min.js"
+  ]
+}
