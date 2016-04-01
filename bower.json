@@ -1,6 +1,6 @@
 {
   "name": "ng.cx.lodash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular wrapper for lodash configured for ctx purposes",
   "authors": [
     "EF CTX <ctx@ef.com> (http://www.ef.com)"
@@ -30,7 +30,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "angular": "~1.l.8",
+    "angular": "~1.4.8",
     "angular-mocks": "~1.4.8"
   },
   "main": [

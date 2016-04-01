@@ -3,9 +3,9 @@
 
 	/**********************************************************
 	 * 
-	 * ng.cx.lodash - v0.0.1
+	 * ng.cx.lodash - v0.0.2
 	 * 
-	 * Release date : 2016-04-01 : 16:33
+	 * Release date : 2016-04-01 : 16:37
 	 * Author       : Jaime Beneytez - EF CTX 
 	 * License      :  
 	 * 
